@@ -9,13 +9,15 @@ html {
 body {
   background: #444;
 }
-.ScreenClock {
+#ScreenClock {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
-  color: #fff;
-  font-size: 80px;
+  color: #17effe;
+  font-size: 60px;
+  font-family: Orbitron;
+  letter-spacing: 7px;
   border: 1px solid #ccc;
   padding: 0px 5px 0px 5px;
 }
